@@ -1,5 +1,5 @@
 # SmartStarProjector-ESP-Mod
-This Repository contains the code and instructions needed to free a Tuya Smart-Star-Projector(SSP) from the cloud by replacing the WB3S MCU with a ESP8266. This enables control over MQTT.
+This Repository contains the code and instructions needed to free a Tuya Smart-Star-Projector(SSP) from the cloud, by replacing the WB3S MCU with an ESP8266. This enables control over MQTT.
 
 **Warning! You will have to physically open the device and replace the MCU, this will void your warranty.**
 
