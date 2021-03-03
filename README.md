@@ -11,6 +11,7 @@ This Repository contains the code and instructions needed to free a Tuya Smart-S
 - Remove the ESP8266 from the WEMOS board and solder it onto the SSP PCB
 - Remove  R17, R18 and C6 from the SSP PCB as shown on the Image below (red box)
 - Use the salvaged R17,R18 or another 10k resistor to pull GPIO15 down to ground (yellow box), without this change the ESP8266 won't boot
+- Reassemble the SSP and connect it to power
 
 ![Alt text](hardware_changes.jpg)
 
